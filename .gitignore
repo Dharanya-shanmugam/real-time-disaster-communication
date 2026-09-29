@@ -1,0 +1,16 @@
+# Build output
+Debug/
+
+# Logs
+*.log
+
+# IDE temporary files
+.vscode/
+.idea/
+
+# Python cache (if any Python files are added later)
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env

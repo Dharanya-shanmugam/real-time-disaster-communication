@@ -1,0 +1,8 @@
+collapse/module.driver.ether_on_rmac.554185080=false
+collapse/module.driver.ether_on_rmac.805109491=false
+collapse/module.driver.ether_phy_on_rmac_phy.1901152234=false
+collapse/module.driver.layer3_switch.1154131101=false
+collapse/module.middleware.lwip_nic_on_ether.2051929792=false
+collapse/module.middleware.lwip_sys_baremetal.747623467=false
+collapse/module.middleware.lwip_tcpip.1721309989=false
+eclipse.preferences.version=1
